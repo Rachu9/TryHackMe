@@ -27,4 +27,11 @@ The command will prompt you for a password if the embedded data is password-prot
 
 **This sequence of commands is often used in cybersecurity and digital forensics to uncover hidden information within media files.**
 
-**Decode the image to reveal the answer.**
+
+### Answer
+
+
+> **Decode the image to reveal the answer.**  
+> _SpaghettiSteg_
+
+
